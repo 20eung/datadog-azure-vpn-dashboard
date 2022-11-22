@@ -18,7 +18,7 @@
 ![Datadog-Azure-VPN-Dashboard](img/datadog-azure-vpn-dashboard.png)
 
 # Datadog: Azure VPN Dashboard Settings
-- Metrics: azure.network_vpngateways.tunnel_egress_bytes / azure.network_vpngateways.tunnel_ingress_bytes  <-- Bytes
-- from: remoteip:_208.213.9x.xxx_ <-- Azure VPN Sites Link IP address
+- Metrics: azure.network_vpngateways.tunnel_egress_bytes / azure.network_vpngateways.tunnel_ingress_bytes <-- Bytes
+- from: remoteip:_208.213.9x.xxx_ <-- Azure > Virtual HUB > VPN Sites > Link IP address
 
 ![Datadog-Azure-VPN-Dashboard-Settings](img/datadog-azure-vpn-dashboard-settings.png)
