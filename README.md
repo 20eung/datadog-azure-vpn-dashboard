@@ -1,6 +1,6 @@
 # Datadog Dashboard for Azure VPN Site
 
-## 대시보드 구성 대상: 사전 구성된 내역
+## Azure: VPN Site
 1. Azure Virtual WANs 구성 후
 2. HUB 생성 및 VPN(Site to Site) 생성
 3. VPN Sites 생성하여 Link(Customer VPN) 등록
