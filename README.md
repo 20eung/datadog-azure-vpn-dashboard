@@ -1,4 +1,4 @@
-# Datadog Dashboard for Azure VPN per Site
+# Datadog Dashboard for Azure VPN Site
 
 ## 대시보드 구성 대상: 사전 구성된 내역
 1. Azure Virtual WANs 구성 후
